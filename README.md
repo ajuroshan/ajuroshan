@@ -1,4 +1,4 @@
-### Hi there, I'm Ajmal Roshan 👋
+<h1 style ="text-align : center;">Hi there, I'm Ajmal Roshan 👋</h1>   
 
 <br/>
 
