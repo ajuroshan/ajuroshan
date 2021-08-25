@@ -3,7 +3,7 @@
 <br/>
 
 ## I'm a Student, Developer, and Computer Enthusiast !! 
-- 🐱‍👤 I'm a selftaught Developer 🙌 
+- 🐱‍👤 I'm a self taught Developer 🙌 
 - 🌱 I’m currently learning everything 🤣 
 - 💖 I love Technology and Computers 💋 
 - 🎶 Mad with Music 🐱‍🏍
@@ -263,6 +263,14 @@
     />
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
+      alt="xd"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
       alt="xd"
