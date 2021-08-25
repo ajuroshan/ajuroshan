@@ -1,16 +1,20 @@
-<h1 style="text-align: center">Hi there, I'm Ajmal Roshan 👋</h1>
+<h1 align="center">Hi there, I'm Ajmal Roshan 👋</h1>
+<h3 align="center">Self taught Developer and Ethical Hacker</h3>
 
-## I'm a Student, Developer, and Computer Enthusiast !! - 🐱‍👤 I'm a self
-taught Developer 🙌 - 🌱 I’m currently learning everything 🤣 - 💖 I love
-Technology and Computers 💋 - 🎶 Mad with Music 🐱‍🏍
+## I'm a Student, Developer, and Computer Enthusiast !! 
+- 🐱‍👤 I'm a selftaught Developer 🙌 
+- 🌱 I’m currently learning everything 🤣 
+- 💖 I love Technology and Computers 💋 
+- 🎶 Mad with Music 🐱‍🏍
+- 🚀 Gaming 🚁
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow Me:</h3>
 <p align="left">
   <a href="https://twitter.com/ajuroshan_/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="arjunarz3"
+      alt="ajuroshan"
       height="30"
       width="40"
   /></a>
@@ -18,7 +22,7 @@ Technology and Computers 💋 - 🎶 Mad with Music 🐱‍🏍
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/arjun-arz-39a64a1ba"
+      alt="ajuroshan"
       height="30"
       width="40"
   /></a>
@@ -26,17 +30,17 @@ Technology and Computers 💋 - 🎶 Mad with Music 🐱‍🏍
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="imarjunarz"
+      alt="ajuroshan"
       height="30"
       width="40"
   /></a>
   <a
-    href="https://www.youtube.com/c/https://www.youtube.com/cyberkallan2"
+    href="https://www.youtube.com/channel/UCGKOy2PbBJ-w_20rYiu71KQ"
     target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="https://www.youtube.com/cyberkallan2"
+      alt="https://www.youtube.com/channel/UCGKOy2PbBJ-w_20rYiu71KQ"
       height="30"
       width="40"
   /></a>
@@ -300,6 +304,4 @@ Technology and Computers 💋 - 🎶 Mad with Music 🐱‍🏍
   />
 </details>
 
-[twitter]: https://twitter.com/ajuroshan_ [youtube]:
-https://www.youtube.com/channel/UCGKOy2PbBJ-w_20rYiu71KQ [instagram]:
-https://instagram.com/aju_.roshan [linkedin]: www.linkedin.com/in/ajuroshan
+
