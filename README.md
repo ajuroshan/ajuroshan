@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Ajmal Roshan 👋</h1>
-<h3 align="center">Self taught Developer and Ethical Hacker</h3>
 
-<br/>
 <br/>
 
 ## I'm a Student, Developer, and Computer Enthusiast !! 
