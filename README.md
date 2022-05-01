@@ -7,6 +7,7 @@
 
 - 💬 Ask me about **Anything 😂**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajuroshan&label=Profile%20views&color=0e75b6&style=flat" alt="ajuroshan" /> </p>
 
 <h3 align="left">Connect with me:</h3><br />
 <p align="left">
