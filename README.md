@@ -14,7 +14,7 @@
 <a href="https://twitter.com/ajuroshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajuroshan_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajuroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajuroshan" height="30" width="40" /></a>
 <a href="https://instagram.com/auroshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="auroshan_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtu.be/dqw4w9wgxcq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/dqw4w9wgxcq" height="30" width="40" /></a>
+<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/dqw4w9wgxcq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
