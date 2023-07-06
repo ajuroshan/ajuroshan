@@ -59,7 +59,6 @@ I'm currently studying B-Tech Electronics and Communication at Cochin University
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-Note: MongoDB was not listed in the original tech stack, but I included it under the "Database" category for completeness.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ajuroshan&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ajuroshan&theme=merko&hide_border=true)<br/>
