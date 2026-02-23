@@ -1,76 +1,162 @@
-# 👋 Hi, I'm Ajmal Roshan!
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ajuroshan&label=Profile%20views&color=0e75b6&style=flat" alt="ajuroshan" />
-</p>
+# Ajmal Roshan
 
-## 💫 About Me
+**Backend & DevOps Engineer**
 
-I'm currently studying B-Tech Electronics and Communication at Cochin University of Science and Technology. I'm enthusiastic about collaborating on FOSS projects and I'm currently learning Rust. Feel free to ask me about anything interesting!
+Building production-ready systems used by thousands of students and organizations.
 
-## 🌐 Socials
+[![Website](https://img.shields.io/badge/ajuroshan.me-000?style=for-the-badge&logo=safari&logoColor=white)](https://www.ajuroshan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajuroshan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajuroshan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajuaju0483@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajuroshan_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajuroshan)
-
-### Programming Languages:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### Front-end Frameworks:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Cloud Computing:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### Backend Frameworks:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### Databases:
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Design:
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### Other:
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ajuroshan&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ajuroshan&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajuroshan&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ajuroshan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=ajuroshan&icon=7&color=6)](https://visitcount.itsvg.in) -->
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### About
+
+Backend & DevOps engineer experienced in building production-ready web and mobile applications. Skilled at designing scalable systems, deploying with modern DevOps tools, and shipping products that are actively used by thousands of students and organizations. Currently pursuing B.Tech in Electronics and Communication at **Cochin University of Science and Technology** (Graduating 2026).
+
+---
+
+### Experience
+
+**App Developer** @ Lascade Co &nbsp;`Jan 2025 - Present`
+> Developed and optimized 2 high-performance iOS applications with integrated real-time analytics and business intelligence tools. Improved application performance by optimizing caching strategies and rewriting API polling mechanisms.
+>
+> `Swift` `SwiftUI` `UIKit` `Combine` `Firebase Analytics` `REST APIs` `Kingfisher`
+
+**Full Stack Engineer (Intern)** @ Lamsta &nbsp;`May 2023 - Aug 2023`
+> Developed the frontend of an event management platform, translating Figma designs into reusable, production-ready UI components.
+>
+> `Next.js` `Figma` `REST APIs`
+
+---
+
+### Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**CUSAT Five-Year MSc Admission System**
+[fyugp.cusat.ac.in](https://fyugp.cusat.ac.in)
+
+University-wide admission platform handling **10,000+ student applications** annually, reducing manual paperwork for over 8 departments.
+
+`Django` `DRF` `Docker`
+
+</td>
+<td width="50%">
+
+**CUSAT Hostel Allotment System**
+[hostels.cusat.ac.in](https://hostels.cusat.ac.in)
+
+Automated hostel seat allocation for **3,000+ students** using a location-priority algorithm with live dashboards for administrators.
+
+`PostgreSQL` `Nginx` `DRF`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Messy - Hostel Food Mess Management**
+[messy.cusat.xyz](https://messy.cusat.xyz)
+
+Automated monthly bill generation and meal attendance tracking for hostel food services. Scaled to **2,000+ active users** across multiple hostels.
+
+`Django` `Metabase` `SQLite`
+
+</td>
+<td width="50%">
+
+**Sargam - Cultural Event Management**
+[sargamcusat.com](https://sargamcusat.com)
+
+Event management system automating the registration process for cultural events for **3,000+ students** with Nginx load balancing for 200+ concurrent users.
+
+`Django` `PostgreSQL` `AWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Home Server Setup**
+
+Self-hosted server for databases and web apps with reliable remote access and Dockerized deployments.
+
+`Ubuntu Server` `Docker` `Networking`
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
+
+---
+
+### Tech Stack
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Systems**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**iOS Development**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-000000?style=flat-square&logo=apple&logoColor=white)
+
+**Other**
+
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ajuroshan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajuroshan&theme=github-dark-blue&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajuroshan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+**Kochi, Kerala, India** &bull; [ajuroshan.me](https://www.ajuroshan.me)
+
+</div>
