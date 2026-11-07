@@ -18,11 +18,11 @@ My little corner of the internet is **[ajmalroshan.dev](https://ajmalroshan.dev)
 ### Things I built for myself
 
 - **[BreakTime](https://github.com/ajuroshan/breaktime)**: a 300 KB Rust tray app that makes me look away from the screen.
-- **One free Oracle ARM server** that runs my site, my Telegram assistant, my habit tracker and a morning brief that texts me my day at 7 am.
+- **A morning brief** that texts me my day at 7 am, and a habit tracker that quietly judges me.
 
 ### What I reach for
 
-Python, Django, PostgreSQL, Docker, nginx, Linux, Cloudflare, GitHub Actions. Swift and Kotlin when I need an app. C++ when it's going on the bike.
+Python, Django, PostgreSQL, Docker, Linux, GitHub Actions. Swift and Kotlin when I need an app. C++ when it's going on the bike.
 
 ---
 
